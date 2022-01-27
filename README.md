@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 
+<img src="https://raw.githubusercontent.com/shblue21/shblue21/main/microsoft-certified-azure-developer-associate.1.png" alt="drawing" width="200"/>
+
 
 <!--
 **shblue21/shblue21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
