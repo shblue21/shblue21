@@ -1,8 +1,10 @@
 ### Hi there 👋
+| Badge | Title |
+|-------|-------|
+| <img src="https://raw.githubusercontent.com/shblue21/shblue21/main/microsoft-certified-azure-developer-associate.1.png" width="150"/> | Azure Developer Associate |
+| <img src="https://raw.githubusercontent.com/shblue21/shblue21/main/NCA.png" width="150"/> | Naver Cloud Platform Certified Associate|
 
 
-<img src="https://raw.githubusercontent.com/shblue21/shblue21/main/microsoft-certified-azure-developer-associate.1.png" width="150"/>
-<img src="https://raw.githubusercontent.com/shblue21/shblue21/main/NCA.png" width="150"/>
 
 <!--
 **shblue21/shblue21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
