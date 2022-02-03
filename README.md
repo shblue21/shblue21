@@ -1,7 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=shblue21" align="right"/>
 
 
-### Hi there 👋 
+<h1 align="center">Hi 👋, I'm JI HUN</h1>
+<h3 align="center">Associate application architect from S. Korea</h3>
+
+
 | Badge | Title |
 |-------|-------|
 | <a href="https://www.credly.com/badges/90bd4c1c-2a46-4e0c-8990-0d89635b33e0/public_url"><img src="https://raw.githubusercontent.com/shblue21/shblue21/main/microsoft-certified-azure-developer-associate.1.png" width="150"/></a> | Azure Developer Associate |
