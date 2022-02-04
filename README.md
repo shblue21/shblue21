@@ -3,6 +3,12 @@
 <h1 align="center">Hi 👋, I'm JI HUN</h1>
 <h3 align="center">Associate application architect from S. Korea</h3>
 
+### Career
+- Shinsaegae I&C  (21.10 ~ )
+- LS ITC (pre. LS Global) (20.01 ~ 21.09)
+- Daewoobrenic (Metanet) (17.11 ~ 20.01)
+
+### Certifacation
 
 | Badge | Title |
 |-------|-------|
