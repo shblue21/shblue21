@@ -18,9 +18,9 @@
       - WIP  
   - Many solutions experience   
     - Uipath    
-    - Winautomation(Power Automate)    
+    - Winautomation (Power Automate)    
     - Automation Anywhere    
-    - Self-develop(System.Windows.Automation)
+    - Self-develop (System.Windows.Automation)
 - Application architect  
   - WIP
 - Etc.
