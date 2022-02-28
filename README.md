@@ -11,29 +11,17 @@
 ### 1. Career
 
 - RPA Based
-  
-  - 4 years RPA experience
-  
-  - RPA Project
-    
-    - Role : RPA Project Manager, Architect, pre-Sales
-    
-    - Domain 
-      
-      - WIP
-  
-  - Many solutions experience
-    
-    - Uipath
-    
-    - Winautomation(Power Automate)
-    
-    - Automation Anywhere
-    
+  - 4 years RPA experience  
+  - RPA Project    
+    - Role : RPA Project Manager, Architect, pre-Sales    
+    - Domain       
+      - WIP  
+  - Many solutions experience   
+    - Uipath    
+    - Winautomation(Power Automate)    
+    - Automation Anywhere    
     - Self-develop(System.Windows.Automation)
-
-- Application architect
-  
+- Application architect  
   - WIP
 - Etc.
   - Smart factory
@@ -41,15 +29,10 @@
   - 
 
 ### 2. Skill-set
-
 - Language
-
 - Infra
-
 - Etc
-  
   - InfluxDB
-  
   - Grafana
 
 ### 3. Certifacation
