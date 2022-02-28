@@ -8,7 +8,7 @@
 - LS ITC (pre. LS Global) (20.01 ~ 21.09)
 - Daewoobrenic (Metanet) (17.11 ~ 20.01) -->
 
-### Career
+### 1. Career
 
 - RPA Based
   
@@ -16,9 +16,11 @@
   
   - RPA Project
     
-    - Role : Project Manager, pre-Sales
+    - Role : RPA Project Manager, Architect, pre-Sales
     
     - Domain 
+      
+      - WIP
   
   - Many solutions experience
     
@@ -33,10 +35,24 @@
 - Application architect
   
   - WIP
+- Etc.
+  - Smart factory
+  - Cloud deployment experience
+  - 
 
-### Skill-set
+### 2. Skill-set
 
-### Certifacation
+- Language
+
+- Infra
+
+- Etc
+  
+  - InfluxDB
+  
+  - Grafana
+
+### 3. Certifacation
 
 | Badge                                                                                                                                                                                                                             | Title                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
