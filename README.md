@@ -31,8 +31,8 @@
 
 ### 3. Certifacation
 
-- Azure Developer Associate 
-- Azure Devops Expert
+- [Azure Developer Associate](https://www.credly.com/badges/90bd4c1c-2a46-4e0c-8990-0d89635b33e0)
+- [Azure Devops Expert](https://www.credly.com/badges/981de455-9de7-4731-b844-0e4f3fecf992)
 - AWS Manufacturing Boost Program
 - Naver Cloud Platform Certified Associate
 - Naver Cloud Platform Certified Professional 200
