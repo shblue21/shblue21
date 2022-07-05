@@ -1,54 +1,56 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshblue21%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="right"/></a>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-<h1 align="center">Hi 👋, I'm JI HUN</h1>
-<h3 align="center">Associate application architect from S. Korea</h3>
+### <div align="center">I'm a Application Architect 👨‍💻 in Seoul, Korea 🚀</div>  
+  
 
-<!-- ### Career
-- Shinsaegae I&C  (21.10 ~ )
-- LS ITC (pre. LS Global) (20.01 ~ 21.09)
-- Daewoobrenic (Metanet) (17.11 ~ 20.01) -->
+- 🔭 I’m currently working on Shinsegae  
+  
 
-### 1. Career
+- 🌱 I’m currently learning Kubernetes and Typescripts   
+  
+
+- ❓ Ask me about anything related to Web Application and Public Cloud  
+  
+
+- ⚡ Fun fact : I like to keep my night shift activated 24 x 7  
+  
+
+<br/>  
 
 
-<!--   - 4 years RPA experience  
-  - RPA Project    
-    - Role : RPA Project Manager, Architect, pre-Sales    
-    - Domain       
-      - WIP  
-  - Many solutions experience   
-    - Uipath    
-    - Winautomation (Power Automate)    
-    - Automation Anywhere    
-    - Self-develop (System.Windows.Automation) -->
-- RPA Consultant
-- Application architect
+## Languages and Tools  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="50" />  
+</div>  
 
-### 2. Skill-set
-- Language
-- Infra
-- Etc
+<br/>  
 
-### 3. Certifacation
 
-- [Azure Developer Associate](https://www.credly.com/badges/90bd4c1c-2a46-4e0c-8990-0d89635b33e0)
-- [Azure Devops Expert](https://www.credly.com/badges/981de455-9de7-4731-b844-0e4f3fecf992)
-- AWS Manufacturing Boost Program
-- Naver Cloud Platform Certified Associate
-- Naver Cloud Platform Certified Professional 200
-- Uipath Process Mining Diploma of Completion
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-<!--
-**shblue21/shblue21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api?username=shblue21&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-Here are some ideas to get you started:
+</td><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shblue21&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
