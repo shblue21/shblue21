@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on Shinsegae  
   
 
-- 🌱 I’m currently learning Kubernetes and Typescripts   
+- 🌱 I’m currently learning Kubernetes and GitOps   
   
 
 - ❓ Ask me about anything related to Web Application and Public Cloud  
