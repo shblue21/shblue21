@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm a Application Architect 👨‍💻 in Seoul, Korea 🚀</div>  
+### <div align="center">I'm a Application Architect, Cloud Engineer 👨‍💻 in Seoul, Korea 🚀</div>  
   
 
 - 🔭 I’m currently working on Shinsegae  
